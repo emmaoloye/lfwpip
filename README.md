@@ -1,1 +1,1 @@
-CI/CD (Continuous Integration/Continuous Deployment) machine learning interview code test, the tasks often revolve around automating the process of training and deploying machine learning models. Here's an example of what such a test might entail, including explanations and tasks to be performed.
+CI/CD (Continuous Integration/Continuous Deployment) machine learning interview code test, the tasks often revolve around automating the process of training and deploying machine learning models.
