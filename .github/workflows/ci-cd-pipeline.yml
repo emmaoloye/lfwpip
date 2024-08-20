@@ -28,7 +28,7 @@ jobs:
           PYTHONPATH: ${{ github.workspace }}
       - name: Train model
         run: |
-          python src/train.py
+          python scr/train.py
         env:
           PYTHONPATH: ${{ github.workspace }}
       - name: Deploy model
